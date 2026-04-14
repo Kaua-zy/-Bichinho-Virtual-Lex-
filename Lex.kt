@@ -1,6 +1,6 @@
 import kotlin.system.exitProcess
 
-class Jonas {
+class Lex {
 
     class Lex (val nome: String) {
         var fome = 50
