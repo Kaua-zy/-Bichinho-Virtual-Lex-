@@ -2,7 +2,7 @@ import kotlin.system.exitProcess
 
 class Jonas {
 
-    class Bichinho(val nome: String) {
+    class Lex (val nome: String) {
         var fome = 50
         var felicidade = 50
         var energia = 50
