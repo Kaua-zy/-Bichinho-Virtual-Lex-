@@ -58,7 +58,7 @@ class Lex {
     fun main() {
         println("Digite o nome do seu bichinho:")
         val nome = readLine() ?: "Pet"
-        val pet = Bichinho(nome)
+        val pet = Lex (nome)
 
         while (true) {
             pet.status()
